@@ -17,8 +17,8 @@
 // @run-at       document-idle
 // @grant        unsafeWindow
 // @antifeature  Donate听说含捐赠功能需要添加此代码（无任何作用）
-// @downloadURL https://raw.githubusercontent.com/miiky-nerm/good-doctor-helper/blob/main/good-doctor-helper.user.js
-// @updateURL https://raw.githubusercontent.com/miiky-nerm/good-doctor-helper/blob/main/good-doctor-helper.user.js
+// @downloadURL https://raw.githubusercontent.com/miiky-nerm/good-doctor-helper/main/good-doctor-helper.user.js
+// @updateURL https://raw.githubusercontent.com/miiky-nerm/good-doctor-helper/main/good-doctor-helper.user.js
 // ==/UserScript==
 
 var newupdate = "2025.12.2 \n尝试实现脚本后台运行播放功能。\n目前应该各项功能全了，后续有问题再说吧。\n江湖路远 有缘再见😜";
