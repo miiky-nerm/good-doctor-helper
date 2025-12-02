@@ -17,8 +17,8 @@
 // @run-at       document-idle
 // @grant        unsafeWindow
 // @antifeature  Donate听说含捐赠功能需要添加此代码（无任何作用）
-// @downloadURL https://update.greasyfork.org/scripts/500010/%F0%9F%A5%87%E3%80%90%E5%A5%BD%E5%8C%BB%E7%94%9F%E5%B0%8F%E5%8A%A9%E6%89%8B%E3%80%91%E6%97%A0%E4%BA%BA%E5%80%BC%E5%AE%88%7C%E8%87%AA%E5%8A%A8%E9%9D%99%E9%9F%B3%7C%E8%A7%86%E9%A2%91%E5%8A%A9%E6%89%8B%7C%E8%80%83%E8%AF%95%E5%8A%A9%E6%89%8B%7C%E8%A7%A3%E7%A6%81%E8%B0%83%E8%AF%95.user.js
-// @updateURL https://update.greasyfork.org/scripts/500010/%F0%9F%A5%87%E3%80%90%E5%A5%BD%E5%8C%BB%E7%94%9F%E5%B0%8F%E5%8A%A9%E6%89%8B%E3%80%91%E6%97%A0%E4%BA%BA%E5%80%BC%E5%AE%88%7C%E8%87%AA%E5%8A%A8%E9%9D%99%E9%9F%B3%7C%E8%A7%86%E9%A2%91%E5%8A%A9%E6%89%8B%7C%E8%80%83%E8%AF%95%E5%8A%A9%E6%89%8B%7C%E8%A7%A3%E7%A6%81%E8%B0%83%E8%AF%95.meta.js
+// @downloadURL https://github.com/miiky-nerm/good-doctor-helper/blob/main/good-doctor-helper.user.js
+// @updateURL https://github.com/miiky-nerm/good-doctor-helper/blob/main/good-doctor-helper.user.js
 // ==/UserScript==
 
 var newupdate = "2025.12.2 \n尝试实现脚本后台运行播放功能。\n目前应该各项功能全了，后续有问题再说吧。\n江湖路远 有缘再见😜";
