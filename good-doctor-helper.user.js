@@ -4,7 +4,7 @@
 // @version      1.1.1
 // @description  ❌倍速播放✅屏蔽广告✅解禁调试✅视频助手✅考试助手(遍历试错)✅双模选择：只看不考、全看遂考🚑如果要与我交流，则需移步到下载本脚本的页面，在“反馈”区留下意见或直接私信我。
 // @author       Miiky
-// @license      AGPL License
+// @license      MIT License
 // @match        https://www.cmechina.net/cme/*
 // @match        https://www.cmechina.net/cme/exam.jsp*
 // @match        https://www.cmechina.net/cme/examQuizFail*
