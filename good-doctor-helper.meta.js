@@ -16,7 +16,6 @@
 // @grant        GM_getValue
 // @run-at       document-idle
 // @grant        unsafeWindow
-// @antifeature  Donate听说含捐赠功能需要添加此代码（无任何作用）
 // @downloadURL  https://raw.githubusercontent.com/miiky-nerm/good-doctor-helper/blob/main/good-doctor-helper.user.js
 // @updateURL    https://raw.githubusercontent.com/miiky-nerm/good-doctor-helper/blob/main/good-doctor-helper.meta.js
 // ==/UserScript==
