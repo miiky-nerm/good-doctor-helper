@@ -16,6 +16,6 @@
 // @grant        GM_getValue
 // @run-at       document-idle
 // @grant        unsafeWindow
-// @downloadURL  https://raw.githubusercontent.com/miiky-nerm/good-doctor-helper/blob/main/good-doctor-helper.user.js
-// @updateURL    https://raw.githubusercontent.com/miiky-nerm/good-doctor-helper/blob/main/good-doctor-helper.meta.js
+// @downloadURL  https://raw.githubusercontent.com/miiky-nerm/good-doctor-helper/main/good-doctor-helper.user.js
+// @updateURL    https://raw.githubusercontent.com/miiky-nerm/good-doctor-helper/main/good-doctor-helper.meta.js
 // ==/UserScript==
